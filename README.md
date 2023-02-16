@@ -1,2 +1,2 @@
 # simple-python-projects
- Simple python projects created in free time.
+ Simple python projects created in free time for fun.
